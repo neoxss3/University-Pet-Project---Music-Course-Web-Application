@@ -1,4 +1,4 @@
-#Music-Course-Web-Application (FPT University - Code: TruongLV)
+#Music-Course-Web-Application
 
 Languages: Java, Javascript
 
